@@ -1,0 +1,8 @@
+
+fastapi
+uvicorn
+openai
+pydantic
+paypalrestsdk
+nest_asyncio
+# pyngrok # Optional: only needed for local testing with ngrok
